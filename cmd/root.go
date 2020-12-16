@@ -30,7 +30,7 @@ var cfgFile string
 var rootCmd = &cobra.Command{
 	Use:   "cobra demo",
 	Short: "A brief description of your application",
-	Long: `A very long description that spans multiple lines and likely contains
+	Long: `A very very long description that spans multiple lines and likely contains
 examples and usage of using your application. For example:
 
 Cobra is a CLI library for Go that empowers applications.
